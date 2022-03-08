@@ -1,0 +1,31 @@
+{
+  "idPerson": 1,
+  "firstName": "Максим",
+  "lastName": "Валдаев",
+  "middleName": "Валерьевич",
+  "age": 22,
+  "phoneNumber": "9999998130",
+  "sex": "м",
+  "isStudent": true,
+  "hobbies": [
+    "Теннис",
+    "Компьюторные игры",
+    "Плавание",
+    "Чтение книг"
+  ],
+  "friend": {
+
+      "name": "Андрей",
+      "age": 21,
+      "sex": "м",
+      "car": {
+
+        "brand": "Mercedes",
+        "model": "c200",
+        "yearOfIssue": 2015,
+        "power": 184,
+        "bodyType": "sedan"
+      }
+    },
+  "AdditionalInformation": null
+}
